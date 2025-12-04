@@ -4,7 +4,7 @@
 #include "windows.h"
 
 using namespace std;
-
+// NDKDJDLKKD//
 int main()
 {
     int x, n = 5;
